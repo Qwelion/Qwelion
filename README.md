@@ -6,7 +6,7 @@
 
 ### ⚡︎ Tech Stack
 `Rust` `Python` `Qwen AI` `Docker` `Linux` `Git` 
-`CI/CD` `Qwen` `Deep Research`
+`Qwen` `Deep Research`
 
 ### ★ Focus
 * **Systems:** High-performance & memory-safe applications.
