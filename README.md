@@ -14,7 +14,7 @@
 
 ---
 
-### 👤 Identity
+### ♰ Identity
 No social noise. Zero distractions. Gym and Code. I speak only when necessary. Private. Focused. Objectives met by any means. No useless questions. Develop. Test. Repeat. Deploy.
 
 ---
