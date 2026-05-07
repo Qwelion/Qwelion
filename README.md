@@ -8,15 +8,9 @@
 `Rust` `Python` `Qwen AI` `Docker` `Linux` `CI/CD`
 
 ### 🎯 Focus
-
-#### SYSTEMS
-High-performance & memory-safe applications.
-
-#### AUTOMATION
-Resilient CI/CD & testing frameworks.
-
-#### AI
-Qwen-based solutions for development.
+* **Systems:** High-performance & memory-safe applications.
+* **Automation:** Resilient CI/CD & testing frameworks.
+* **AI:** Qwen-based solutions for development.
 
 ---
 
