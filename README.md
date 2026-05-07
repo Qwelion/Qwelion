@@ -10,8 +10,7 @@
 ### 🎯 Focus
 * **Systems:** High-performance & memory-safe applications.
 * **Automation:** Resilient CI/CD & testing frameworks.
-* **AI:** Qwen-based solutions for development.
-<br clear="right">
+* **AI:** Qwen-based solutions for development. <br clear="right">
 
 ---
 
