@@ -19,8 +19,8 @@ Systems engineering and high-performance backend development.
 
 ---
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=IttiIlu&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&include_all_commits=true&count_private=true)
+### 👾 System Status
+![Cyberpunk Animation](https://i.pinimg.com/originals/b8/7f/fa/b87ffa2f315f05652ed8dc23ba39bac4.gif)
 
 ---
 
