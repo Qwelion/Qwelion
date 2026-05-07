@@ -7,7 +7,7 @@
 ### ⚡︎ Tech Stack
 `Rust` `Python` `Qwen AI` `Docker` `Linux` `CI/CD`
 
-### 🎯 Focus
+### ★ Focus
 * **Systems:** High-performance & memory-safe applications.
 * **Automation:** Resilient CI/CD & testing frameworks.
 * **AI:** Qwen-based solutions for development. <br clear="right">
