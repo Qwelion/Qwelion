@@ -2,7 +2,7 @@
 
 ---
 
-<img src="https://i.pinimg.com/originals/b8/7f/fa/b87ffa2f315f05652ed8dc23ba39bac4.gif" align="right" width="400" />
+<img src="https://i.pinimg.com/originals/e3/10/e6/e310e62f7334a16e626e11e13a90d812.gif" align="right" width="400" />
 
 ### ⚡️ Tech Stack
 `Rust` `Python` `Qwen AI` `Docker` `Linux` `CI/CD`
