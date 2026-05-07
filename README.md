@@ -19,6 +19,6 @@ No social noise. Zero distractions. Gym and Code. I speak only when necessary. P
 
 ---
 
-### 📍 Connectivity
+### ⛈ Connectivity
 **Location:** Connecticut, USA  
 **Links:** [LinkedIn] • [Email]
