@@ -1,28 +1,24 @@
 # Qwelion | Rust Developer
 
-Systems engineering and high-performance backend development.
-
 ---
+
+<img src="https://i.pinimg.com/originals/b8/7f/fa/b87ffa2f315f05652ed8dc23ba39bac4.gif" align="right" width="400" />
 
 ### ⚡️ Tech Stack
-* **Languages:** Rust (Tokio, Axum, Serde) • Python
-* **AI:** Qwen API • LLM Integration
-* **Tools:** Docker • GitHub Actions • CI/CD • Linux
-* **Testing:** Pytest • Playwright
-
----
+`Rust` `Python` `Qwen AI` `Docker` `Linux` `CI/CD`
 
 ### 🎯 Focus
-<img align="right" width="450" src="https://i.pinimg.com/originals/b8/7f/fa/b87ffa2f315f05652ed8dc23ba39bac4.gif">
-
-* **Systems:** Building memory-safe and concurrent applications.
-* **Automation:** Developing resilient CI/CD pipelines.
-* **AI:** Implementing Qwen-based solutions for development workflows.
+* **Systems**
+  High-performance & memory-safe apps.
+* **Automation**
+  Resilient CI/CD & testing frameworks.
+* **AI**
+  Qwen-based solutions for development.
 
 <br clear="right">
 
 ---
 
 ### 📍 Connectivity
-* **Location:** Connecticut, USA
-* **Endpoints:** [LinkedIn] • [Email]
+**Location:** Connecticut, USA  
+**Links:** [LinkedIn] • [Email]
