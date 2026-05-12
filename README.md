@@ -1,4 +1,4 @@
-# Qwelion | Software Engineer | Systems Engineer | Rust Engineer
+# Qwelion | Software Engineer | Systems Engineer | Rust
 
 
 ---
