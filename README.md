@@ -25,4 +25,4 @@ Develop. Test. Repeat. Deploy.
 
 ### ⛈ Connectivity
 **Location:** Connecticut, USA  
-**Links:** • [maksympoliak6@gmail.com]
+**Links:** • [maksympoliak@gmail.com]
