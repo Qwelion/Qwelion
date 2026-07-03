@@ -9,7 +9,10 @@
 `Python` `Docker` `Linux` `Git` `Deep Research`
 
 
-
+1
+1
+1
+1
 ### ★ Focus
 * **Systems:** qwe
 
